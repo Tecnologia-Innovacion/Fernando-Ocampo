@@ -1,5 +1,3 @@
 # Fernando-Ocampo
 
-Esta es una prueba
-
-##sub titulo
+[lectura design](https://docs.google.com/document/d/1nRsbWtSLPqLUiCoNfuFKI_hyko7C-nOcCsxPvSWrIS4/edit)
